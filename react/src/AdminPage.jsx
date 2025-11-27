@@ -12,18 +12,10 @@ function AdminPage() {
       info: "+3 from yesterday"
     },
     {
-      title: "Active Rentals",
-      number: "4",
-      info: "2 due today"
-    },
-    {
       title: "Pending Orders",
-      number: "15"
-    },
-    {
-      title: "Repair Jobs",
-      number: "16",
-      info: "11 completed today"
+      number: "15",
+      info: "2 new today"
+
     },
     {
       title: "Daily Revenue",
